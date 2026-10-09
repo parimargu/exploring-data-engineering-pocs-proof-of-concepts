@@ -1,13 +1,5 @@
 I’ve created 5 individual Markdown files, each describing an end-to-end data engineering POC using Microsoft Fabric, SQL, Python, MySQL, PostgreSQL, and PySpark. The POCs progress from medium to complex and are designed to help you build practical projects for data engineering interviews.
 
-## Download all 5 POC concepts
-
-Complete POC Blueprint Bundle
-
-ZIP archive · 5 individual Markdown files
-
-Download all 5 POCs (.zip)
-
 ## The 5 POCs at a glance
 
 [Grow . Com](https://images.openai.com/static-rsc-4/6kSnXM-JKD-4LmwOX_hpAOL-Fl6pVosltyv3CYdZ_ghg3JkVcCXwb39QQlS_RCQY8CO6guxdxOgLv8tDlRcuaP-mV_As8cN6TXfKxRBOFFIt47qSQ1J8N0J6fKyjiMj8ch7yEMkaBX0o9vBQk04CzUwhhIT8XpPMwGE6pfd4s2g?purpose=inline)
@@ -20,8 +12,6 @@ Build incremental sales pipelines, customer/product dimensions, inventory analyt
 
 Key skills: SQL joins and window functions, PySpark transformations, Delta Lake, incremental loads, SCD Type 2.
 
-Download Markdown
-
 [From Idea to Interactive: Vibe-Coding a Fraud Detection Dashboard with AI](https://images.openai.com/static-rsc-4/oz-z1kW03V-1FFhXYSX4n3GBS6eN8wdchh9-Y_eAQAbvTwOp9CnKopn-2yG640c9VyQPvnUjGeDbyzwqAfkU5obJaJ9fiYlSvYzISk3pyAgvFe-DvVgR1_eiXaQHWo-VeC5P1ZU6Knejm3nQHvFLLxegMeydRLvimL8D_ituDCo?purpose=inline)
 
 ### 2. Banking & Fraud-Risk Analytics
@@ -31,8 +21,6 @@ Medium–Advanced
 Build transaction pipelines with duplicate detection, reversals, late-arriving events, risk features, and review dashboards.
 
 Key skills: PostgreSQL, event-time processing, rolling windows, data governance, time-aware feature engineering.
-
-Download Markdown
 
 [Doctrack - Hospital Operations Dashboard by Sayem on Dribbble](https://images.openai.com/static-rsc-4/7alDM3lZfAdvf6ERFlZihgWk5jP2ac0rBANtLvtw6tmdV10shPvBShRUMJ9ASiepojoIL6uaq_TO1UBv0vUx9ndvuGVRqoKKb9Bqx8e3KsmzbVWnHmmsEIFsD8VFNHwxI_5ZPiqyL_JsrikG6lc61FURoRyXAi2fJCVI8XMHuIo?purpose=inline)
 
