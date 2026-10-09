@@ -32,8 +32,6 @@ Integrate appointments, encounters, provider rosters, and billing into governed 
 
 Key skills: Cross-database integration, temporal joins, effective-dated dimensions, data privacy, quality rules.
 
-Download Markdown
-
 [Predictive Maintenance (PdM)](https://images.openai.com/static-rsc-4/gmq7j0-79VCOXWEilRdQw_dT2V88FBmf3ii-o5mvF14OYLxIgKX2a0fsLbwxx7TM5vmKotNV-ZvCasviG29bLGrbeWU5uhjLpvAS7SEGtkP9vEzaolIB9iYPbAtSfDUXG9a9u4YakW88nizcmVc1r4CtWKFO4ynyTM8U-kgTHqo?purpose=inline)
 
 ### 4. IoT Manufacturing & Predictive Maintenance
@@ -44,8 +42,6 @@ Process high-volume sensor readings and maintenance records to calculate equipme
 
 Key skills: PySpark time-series processing, rolling features, late events, performance tuning, batch versus streaming.
 
-Download Markdown
-
 [Live Shipment Tracking for Smarter Supply Chains](https://images.openai.com/static-rsc-4/IZzoEEdUJlFot25YUAmg8K_tVOONk_M-MLzdjbIS3ZuFL0vfGZD-Ez0shkGjUJY5Ho6aftU1Mez3zKEfBDtMc9_49PvJxgQjK5y1doPPOTQhRomYmVsT1swOQ2BklfwEE0P5xY9u2hbHVY61SrhRkHOpkFRruZfvgaG3AvhejUQ?purpose=inline)
 
 ### 5. Logistics & Supply Chain Control Tower
@@ -55,8 +51,6 @@ Complex
 Combine order management, warehouse inventory, shipment milestones, and carrier feeds into a reliable control tower.
 
 Key skills: Multi-source integration, event reconstruction, incremental processing, data contracts, end-to-end SLA monitoring.
-
-Download Markdown
 
 ## What each Markdown file contains
 
